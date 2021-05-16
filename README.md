@@ -1,3 +1,3 @@
-# Tic Tac Toe Intro to React
+# Tic Tac Toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Game built doing the [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html)
